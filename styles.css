@@ -1,4 +1,4 @@
-background-color:lightblue;
+body {background-color: lightblue;}
 h3{
   color: Red;
 }
@@ -12,6 +12,5 @@ h3{
   border-top-style:solid;
 }
 #hed{
-  font-size:15px;
-  
+  font-size:30px;
 }
